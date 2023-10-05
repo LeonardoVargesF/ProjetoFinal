@@ -10,10 +10,11 @@ namespace IFStore.Domain.Entities
     public class Usuario : BaseEntity<int>
     {
         public Usuario() { }
-        public String Nome { get; set; }
-        public String Senha { get; set; }
-        public String Login { get; set; }
-        public String Email { get; set; }
+
+        public string Nome { get; set; }
+        public string Senha { get; set; }
+        public string Login { get; set; }
+        public string Email { get; set; }
         public DateTime DataCadastro { get; set; }
         public DateTime DataLogin { get; set; }
         public bool Ativo { get; set; }

@@ -5,7 +5,7 @@ using System.Text.Json;
 namespace IFSPStore.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTestDomain
     {
         [TestMethod]
         public void TestMethod1()
@@ -17,6 +17,7 @@ namespace IFSPStore.Test
             Assert.AreEqual(usuario.Nome, "Leonardo");
         }
 
+        [TestMethod]
         public void TestMethod2()
         {
             var cliente = new Cliente();
