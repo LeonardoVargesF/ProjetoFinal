@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tivau5EI80P8UR7dNMsys4aqZtM50BXSXuXFkVjDX2xs/wzVjJx/F77l3b7zpUA1Bty8zCMxEj7wnEZ7GigyXw==",
+  "success": true,
+  "projectFilePath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.Service\\GerEventos.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\aluno\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
