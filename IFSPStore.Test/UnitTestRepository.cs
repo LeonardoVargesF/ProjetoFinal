@@ -243,7 +243,6 @@ namespace IFSPStore.Test
         }
         
 
-
         [TestMethod]
         public void TestSelectVenda()
         {
@@ -262,7 +261,7 @@ namespace IFSPStore.Test
         {
             using (var context = new MyDbContext())
             {
-                foreach (var vendaitem in context.Venda)
+                foreach (var vendaitem in context.Items)
                 {
                     Console.WriteLine(JsonSerializer.Serialize(vendaitem));
                 }
