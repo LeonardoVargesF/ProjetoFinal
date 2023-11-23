@@ -1,0 +1,15 @@
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\GerEventos.Service.csproj.AssemblyReference.cache
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\GerEventos.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\GerEventos.Service.AssemblyInfoInputs.cache
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\GerEventos.Service.AssemblyInfo.cs
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\GerEventos.Service.csproj.CoreCompileInputs.cache
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\bin\Debug\net6.0-windows\GerEventos.Service.deps.json
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\bin\Debug\net6.0-windows\GerEventos.Service.dll
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\bin\Debug\net6.0-windows\GerEventos.Service.pdb
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\bin\Debug\net6.0-windows\GerEventos.Domain.dll
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\bin\Debug\net6.0-windows\GerEventos.Domain.pdb
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\GerEventos.Service.csproj.CopyComplete
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\GerEventos.Service.dll
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\refint\GerEventos.Service.dll
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\GerEventos.Service.pdb
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Service\obj\Debug\net6.0-windows\ref\GerEventos.Service.dll

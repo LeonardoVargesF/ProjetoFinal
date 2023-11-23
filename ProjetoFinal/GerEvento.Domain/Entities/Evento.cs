@@ -15,11 +15,12 @@ namespace GerEventos.Domain.Entities
             Participantes = new List<EventoInscricao>();
         }
 
-        public Evento(int id, string? nome, DateTime dataEvento, string? descricao, Cidade? Cidade, List<EventoPalestrante> palestrantes, List<EventoInscricao> participantes) : base(id)
+        public Evento(int id, string? nome, DateTime dataEvento, string? descricao, Cidade? cidade, List<EventoPalestrante> palestrantes, List<EventoInscricao> participantes) : base(id)
         {
             Nome = nome;
             DataEvento = dataEvento;
             Descricao = descricao;
+            Cidade = cidade;
             Palestrantes = palestrantes;
             Participantes = participantes;
         }
@@ -39,9 +40,11 @@ namespace GerEventos.Domain.Entities
 
         }
 
-        public EventoInscricao(DateTime dataInscricao, Evento? Evento, Participante? Participante) : base(id)
+        public EventoInscricao(int id, DateTime dataInscricao, Evento? evento, Participante? participante) : base(id)
         {
             DataInscricao = dataInscricao;
+            Evento = evento;
+            Participante = participante;
         }
 
         public DateTime DataInscricao { get; set; }

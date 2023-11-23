@@ -23,11 +23,11 @@ namespace GerEventos.Repository.Mapping
 
             builder.Property(prop => prop.CPF)
                 .IsRequired()
-                .HasColumnType("integer");
+                .HasColumnType("varchar(20)");
 
             builder.Property(prop => prop.Telefone)
                 .IsRequired()
-                .HasColumnType("integer");
+                .HasColumnType("varchar(20)");
 
             builder.Property(prop => prop.Especializacao)
                 .IsRequired()

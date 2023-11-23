@@ -15,10 +15,12 @@ namespace GerEventos.Domain.Entities
 
         }
 
-        public EventoPalestrante(string? tituloPalestra, int tempoDuracao, Evento? Evento, Palestrante? Palestrante) : base(id)
+        public EventoPalestrante(int id, string? tituloPalestra, int tempoDuracao, Evento? evento, Palestrante? palestrante) : base(id)
         {
             TituloPalestra = tituloPalestra;
             TempoDuracao = tempoDuracao;
+            Evento = evento;
+            Palestrante = palestrante;
         }
 
         public string? TituloPalestra { get; set; }

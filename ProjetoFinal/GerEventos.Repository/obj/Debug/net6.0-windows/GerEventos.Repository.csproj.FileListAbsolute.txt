@@ -1,0 +1,17 @@
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\GerEventos.Repository.csproj.AssemblyReference.cache
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\GerEventos.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\GerEventos.Repository.AssemblyInfoInputs.cache
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\GerEventos.Repository.AssemblyInfo.cs
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\GerEventos.Repository.csproj.CoreCompileInputs.cache
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\bin\Debug\net6.0-windows\GerEventos.Repository.deps.json
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\bin\Debug\net6.0-windows\GerEventos.Repository.runtimeconfig.json
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\bin\Debug\net6.0-windows\GerEventos.Repository.dll
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\bin\Debug\net6.0-windows\GerEventos.Repository.pdb
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\bin\Debug\net6.0-windows\GerEventos.Domain.dll
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\bin\Debug\net6.0-windows\GerEventos.Domain.pdb
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\GerEventos.Repository.csproj.CopyComplete
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\GerEventos.Repository.dll
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\refint\GerEventos.Repository.dll
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\GerEventos.Repository.pdb
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\GerEventos.Repository.genruntimeconfig.cache
+D:\Leonardo Varges\ProjetoFinal\GerEventos.Repository\obj\Debug\net6.0-windows\ref\GerEventos.Repository.dll

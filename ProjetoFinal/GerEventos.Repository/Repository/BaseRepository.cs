@@ -2,7 +2,6 @@
 using GerEventos.Repository.Context;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace GerEventos.Repository.Repository
 {
     public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : BaseEntity<int>

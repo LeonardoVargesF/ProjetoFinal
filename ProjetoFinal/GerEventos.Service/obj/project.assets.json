@@ -39,6 +39,22 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "GerEventos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FluentValidation": "11.8.0"
+        },
+        "compile": {
+          "bin/placeholder/GerEventos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GerEventos.Domain.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
       }
     }
   },
@@ -149,12 +165,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "GerEventos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GerEvento.Domain/GerEventos.Domain.csproj",
+      "msbuildProject": "../GerEvento.Domain/GerEventos.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
       "AutoMapper >= 12.0.1",
-      "FluentValidation >= 11.8.0"
+      "FluentValidation >= 11.8.0",
+      "GerEventos.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -188,7 +210,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Leonardo Varges\\ProjetoFinal\\GerEvento.Domain\\GerEventos.Domain.csproj": {
+              "projectPath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEvento.Domain\\GerEventos.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

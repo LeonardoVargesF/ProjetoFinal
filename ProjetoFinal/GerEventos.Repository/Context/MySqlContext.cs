@@ -12,25 +12,23 @@ namespace GerEventos.Repository.Context
             ChangeTracker.LazyLoadingEnabled = false;
         }
 
-        public DbSet<Usuario>? Usuario { get; set; }
+        public DbSet<Palestrante>? Palestrante { get; set; }
         public DbSet<Cidade>? Cidade { get; set; }
-        public DbSet<Cliente>? Cliente { get; set; }
-        public DbSet<Grupo>? Grupo { get; set; }
-        public DbSet<Produto>? Produto { get; set; }
-        public DbSet<Venda>? Venda { get; set; }
-        public DbSet<VendaItem>? VendaItem { get; set; }
+        public DbSet<Participante>? Participante { get; set; }
+        public DbSet<Evento>? Evento { get; set; }
+        public DbSet<EventoPalestrante>? EventoPalestrante { get; set; }
+        public DbSet<EventoInscricao>? EventoInscricao { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.Entity<Usuario>(new UsuarioMap().Configure);
+            modelBuilder.Entity<Palestrante>(new PalestranteMap().Configure);
             modelBuilder.Entity<Cidade>(new CidadeMap().Configure);
-            modelBuilder.Entity<Cliente>(new ClienteMap().Configure);
-            modelBuilder.Entity<Grupo>(new GrupoMap().Configure);
-            modelBuilder.Entity<Produto>(new ProdutoMap().Configure);
-            modelBuilder.Entity<Venda>(new VendaMap().Configure);
-            modelBuilder.Entity<VendaItem>(new VendaItemMap().Configure);
+            modelBuilder.Entity<Participante>(new ParticipanteMap().Configure);
+            modelBuilder.Entity<Evento>(new EventoMap().Configure);
+            modelBuilder.Entity<EventoPalestrante>(new EventoPalestranteMap().Configure);
+            modelBuilder.Entity<EventoInscricao>(new EventoInscricaoMap().Configure);
         }
     }
 }

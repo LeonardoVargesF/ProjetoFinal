@@ -14,19 +14,20 @@ namespace GerEventos.Domain.Entities
 
         }
 
-        public Palestrante(int id, string? nome, string? email, int cpf, Cidade? Cidade, int telefone, string? especializacao) : base(id)
+        public Palestrante(int id, string? nome, string? email, string? cpf, Cidade? cidade, string? telefone, string? especializacao) : base(id)
         {
             Nome = nome;
             Email = email;
             CPF = cpf;
+            Cidade = cidade;
             Telefone = telefone;
             Especializacao = especializacao;
         }
 
         public string? Nome { get; set; }
         public string? Email { get; set; }
-        public int CPF { get; set; }
-        public int Telefone { get; set;}
+        public string? CPF { get; set; }
+        public string? Telefone { get; set;}
         public string? Especializacao { get; set; }
         public Cidade? Cidade { get; set; }
     }
