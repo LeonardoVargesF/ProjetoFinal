@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/k0q8iezR/eAt63PnNENQJliHGT6fugubE6GsFXDfTK9u1SGmBNe+CXcPRI56EHv8FAwsd+a0hNktT9TFT3Vrg==",
+  "dgSpecHash": "Tn0lufFymQQS238ayAP7KkBfBovLDaKBcgpo2TeSySgH8r1BDM+ZWazyjH8yF26/UumyXMem868f8d+zvesEOQ==",
   "success": true,
-  "projectFilePath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.Teste\\GerEventos.Teste.csproj",
+  "projectFilePath": "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEventos.Teste\\GerEventos.Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aluno\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\aluno\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

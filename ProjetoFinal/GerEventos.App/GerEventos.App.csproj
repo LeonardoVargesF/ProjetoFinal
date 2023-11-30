@@ -21,4 +21,10 @@
     <ProjectReference Include="..\GerEventos.Service\GerEventos.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Config\DataBaseSettings.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

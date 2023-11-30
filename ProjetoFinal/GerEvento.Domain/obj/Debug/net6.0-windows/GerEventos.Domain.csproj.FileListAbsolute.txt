@@ -10,3 +10,15 @@ D:\Leonardo Varges\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\GerEve
 D:\Leonardo Varges\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\refint\GerEventos.Domain.dll
 D:\Leonardo Varges\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\GerEventos.Domain.pdb
 D:\Leonardo Varges\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\ref\GerEventos.Domain.dll
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\bin\Debug\net6.0-windows\GerEventos.Domain.deps.json
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\bin\Debug\net6.0-windows\GerEventos.Domain.dll
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\bin\Debug\net6.0-windows\GerEventos.Domain.pdb
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\GerEventos.Domain.csproj.AssemblyReference.cache
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\GerEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\GerEventos.Domain.AssemblyInfoInputs.cache
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\GerEventos.Domain.AssemblyInfo.cs
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\GerEventos.Domain.csproj.CoreCompileInputs.cache
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\GerEventos.Domain.dll
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\refint\GerEventos.Domain.dll
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\GerEventos.Domain.pdb
+D:\Leonardo Varges\ProjetoGerEventos\ProjetoFinal\GerEvento.Domain\obj\Debug\net6.0-windows\ref\GerEventos.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BsBW31cxodUJ6DEmc9/R0HaTXWTBxvXKv/AkNHhhueEmOjImc6x8PjCNiJr5qtRzxtHoWkm5yFs+V+Bt0pU9xw==",
+  "dgSpecHash": "jUgBzYkeau+BLnblj0pAf2UeMpTmxtrO1KRmGtXdq3RP7xsYGcxfuWJzEMZc0d1QWBweUQStScjhWEPhQUeaDQ==",
   "success": true,
-  "projectFilePath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEvento.Domain\\GerEventos.Domain.csproj",
+  "projectFilePath": "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEvento.Domain\\GerEventos.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aluno\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jjKb4UnOfCdEvJ1ljKz2EIg584jkGMfr1dzPgSn5xE7exbUIxTjcQjkvKl7jQN3yHW69e142atovo1svQIQURA==",
+  "dgSpecHash": "KZoqGSuJdL+UewNfzQThS97fkHYM+AzkeD/1vqbfCZdpsKTujDwiLAtRrIqjSRcfs7fOS30uymqPz3XQ78d5KQ==",
   "success": true,
-  "projectFilePath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.Repository\\GerEventos.Repository.csproj",
+  "projectFilePath": "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEventos.Repository\\GerEventos.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aluno\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
     "C:\\Users\\aluno\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

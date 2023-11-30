@@ -9,7 +9,7 @@ namespace GerEventos.App.Models
     internal class EventoPalestranteModel
     {
         public int Id { get; set; }
-        public string TituloPalestra { get; set; }
+        public string? TituloPalestra { get; set; }
         public int TempoDuracao { get; set; }
         public int IdEvento { get; set; }
         public string? Evento { get; set; }

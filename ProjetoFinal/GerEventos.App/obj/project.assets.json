@@ -980,11 +980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.App\\GerEventos.App.csproj",
+      "projectUniqueName": "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEventos.App\\GerEventos.App.csproj",
       "projectName": "GerEventos.App",
-      "projectPath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.App\\GerEventos.App.csproj",
+      "projectPath": "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEventos.App\\GerEventos.App.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.App\\obj\\",
+      "outputPath": "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEventos.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1005,14 +1005,14 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\Leonardo Varges\\ProjetoFinal\\GerEvento.Domain\\GerEventos.Domain.csproj": {
-              "projectPath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEvento.Domain\\GerEventos.Domain.csproj"
+            "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEvento.Domain\\GerEventos.Domain.csproj": {
+              "projectPath": "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEvento.Domain\\GerEventos.Domain.csproj"
             },
-            "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.Repository\\GerEventos.Repository.csproj": {
-              "projectPath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.Repository\\GerEventos.Repository.csproj"
+            "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEventos.Repository\\GerEventos.Repository.csproj": {
+              "projectPath": "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEventos.Repository\\GerEventos.Repository.csproj"
             },
-            "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.Service\\GerEventos.Service.csproj": {
-              "projectPath": "D:\\Leonardo Varges\\ProjetoFinal\\GerEventos.Service\\GerEventos.Service.csproj"
+            "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEventos.Service\\GerEventos.Service.csproj": {
+              "projectPath": "D:\\Leonardo Varges\\ProjetoGerEventos\\ProjetoFinal\\GerEventos.Service\\GerEventos.Service.csproj"
             }
           }
         }

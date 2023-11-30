@@ -1,14 +1,5 @@
 ﻿using ReaLTaiizor.Controls;
 using ReaLTaiizor.Forms;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace GerEventos.App.Base
 {
@@ -66,7 +57,7 @@ namespace GerEventos.App.Base
             }
             else
             {
-                MessageBox.Show(@"Selecione algum registro!", @"IFSP Store", MessageBoxButtons.OK,
+                MessageBox.Show(@"Selecione algum registro!", @"Gerencia de Eventos", MessageBoxButtons.OK,
                     MessageBoxIcon.Warning);
             }
         }
@@ -79,6 +70,62 @@ namespace GerEventos.App.Base
         protected virtual void CarregaRegistro(DataGridViewRow? linha)
         {
 
+        }
+
+        protected void btnCancelar_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show(@"Deseja realmente cancelar?", @"Gerencia de Eventos", MessageBoxButtons.YesNo,
+                    MessageBoxIcon.Question)
+                == DialogResult.Yes)
+            {
+                LimpaCampos();
+                materialTabControl.SelectedIndex = 1;
+            }
+        }
+
+        private void btnSalvar_Click(object sender, EventArgs e)
+        {
+            Salvar();
+        }
+
+        private void btnNovo_Click(object sender, EventArgs e)
+        {
+            Novo();
+        }
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+            Editar();
+        }
+
+        private void btnExcluir_Click(object sender, EventArgs e)
+        {
+            if (dataGridViewConsulta.SelectedRows.Count > 0)
+            {
+                if (MessageBox.Show(@"Deseja realmente deletar?", @"Gerencia de Eventos", MessageBoxButtons.YesNo,
+                        MessageBoxIcon.Question)
+                    == DialogResult.Yes)
+                {
+                    int id = (int)dataGridViewConsulta.SelectedRows[0].Cells["Id"].Value;
+                    Deletar(id);
+                    CarregaGrid();
+                }
+            }
+            else
+            {
+                MessageBox.Show(@"Selecione algum registro!", @"Gerencia de Eventos", MessageBoxButtons.OK,
+                    MessageBoxIcon.Warning);
+            }
+        }
+
+        private void tabPageConsulta_Enter(object sender, EventArgs e)
+        {
+            CarregaGrid();
+        }
+
+        private void dataGridViewConsulta_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            Editar();
         }
     }
 }
